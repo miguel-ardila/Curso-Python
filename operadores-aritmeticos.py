@@ -43,3 +43,5 @@ print(f"resultado de la potencia es: {potencia} ")
 divisionEntera = operandoA // operandoB
 print(f"resultado de la division entera es: {divisionEntera} ")
 
+#ejercicio 1
+

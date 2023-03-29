@@ -103,3 +103,12 @@ elif js == 5:
     print("your javascript level is ninja")
 else:
     print("Ese numero no esta en el rango")
+
+
+#Ejercicio 5 informacion acerca de un libro
+#pedir al usuario que ingrese el titulo, autor,imprimir titulo y autor
+
+titulo = input("Introduce el titulo del libro: ")
+autor = input("Introduce el autor del libro: ")
+print(str(titulo) + " fue escrito por " + str(autor))
+

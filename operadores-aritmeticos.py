@@ -44,4 +44,18 @@ divisionEntera = operandoA // operandoB
 print(f"resultado de la division entera es: {divisionEntera} ")
 
 #ejercicio 1
+alto = int(input("ingrese el alto del rectangulo: "))
+ancho = int(input("ingrese el ancho del rectangulo: "))
+area = alto * ancho
+perimetro = (alto + ancho) * 2
+#--------------------------------------------------------------------------------
+"""
+print(f"el area del rectangulo es: {area} y el perimetro es: {perimetro}") #forma 1"""
+#-------------------------------------------------------------------------------
+"""
+print("Area: ", area)
+print("Perimetro: ", perimetro) #forma 2"""
+#-------------------------------------------------------------------------------
+print("Area:", area, "Perimetro:", perimetro)
+
 

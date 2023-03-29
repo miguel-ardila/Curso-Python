@@ -42,7 +42,7 @@ else:
     print("You should keep working")
 
 #Ejercicio 2
-#pedir al usuario que califique su dia del 2 al 10
+#pedir al usuario que califique su dia del 1 al 5
 
 dia = int(input("Que tal esta tu dia? Introduce un numero del 1 al 5: "))
 if dia == 1:

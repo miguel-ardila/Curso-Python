@@ -86,3 +86,20 @@ elif english <= 10:
     print("your English level is C1")
 else:
     print("Ese numero no esta en el rango")
+
+#Ejercicio 4
+#pedir al usuario su nivel en programacion de javascript del 1 al 5
+
+js = int(input("how good is your javascript type from 0 al 5: "))
+if js == 1:
+    print("your javascript level is basic")
+elif js == 2:
+    print("your javascript level is intermediate")
+elif js == 3:
+    print("your javascript level is advanced")
+elif js == 4:
+    print("your javascript level is expert")
+elif js == 5:
+    print("your javascript level is ninja")
+else:
+    print("Ese numero no esta en el rango")

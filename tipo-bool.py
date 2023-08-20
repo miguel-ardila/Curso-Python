@@ -111,4 +111,3 @@ else:
 titulo = input("Introduce el titulo del libro: ")
 autor = input("Introduce el autor del libro: ")
 print(str(titulo) + " fue escrito por " + str(autor))
-
